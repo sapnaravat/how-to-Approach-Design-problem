@@ -1,0 +1,27 @@
+📍How to Approach Design and Machine coding interviews?
+
+🎨 Approaching Design Interviews:
+
+1.Given singke line promblem statement.
+👉what you have to do
+
+1. Understand the problem domain and user needs.
+2. Gather requirements, clarify(edge-case) [10-15min.]
+3. Draw class/usecase diagram [10-15min.]
+4. Design schema [10-15min.]
+5. No Code
+
+👾 Machine Coding Interviews:
+
+1.given problem statement/details Document
+👉what you have to do
+
+1.Clarify the requirement [15min.]
+2.Class diagram [10 - 15min.]
+3.Schema Design[10-15min.]
+4. Write clean, modular code with comments.[60min+]
+5. Test your solution with various inputs
+6. Discussion about the code and Design Pattern that you have used.
+
+Remember, practice is key! Good luck! 
+#DesignInterviews #MachineCoding #InterviewPrep
